@@ -1,0 +1,30 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+section {
+  height: 100vh;
+  background-size: cover !important;
+  background-position: center !important;
+}
+
+.sec1 {
+  background: url(/Untitled-1.jpg);
+  background-attachment: fixed;
+}
+
+.sec2 {
+  background: url(/Untitled-2.jpg);
+  background-attachment: fixed;
+}
+
+.sec3 {
+  background: url(/Untitled-3.jpg);
+  background-attachment: fixed;
+}
+
+.sec4 {
+  background: url(/Untitled-4.jpg);
+  background-attachment: fixed;
+}
